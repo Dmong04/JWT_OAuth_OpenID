@@ -1,0 +1,6 @@
+@JWT_PLECSYS_DEMO_HostAddress = http://localhost:5224
+
+GET {{JWT_PLECSYS_DEMO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

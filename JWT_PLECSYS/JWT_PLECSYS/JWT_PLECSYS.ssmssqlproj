@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="JWT_PLECSYS">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-1J8JCLT\LOCALHOST:DESKTOP-1J8JCLT\Admin">
+          <Created>2025-09-15T16:50:11.6828104-06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-1J8JCLT\LOCALHOST</Server>
+          <UserName />
+          <Authentication>Autenticación de Windows</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>False</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>SQL Server Management Studio</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1_Users_queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1_Users_queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2_Token_queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>2_Token_queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3_Countries_queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3_Countries_queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Nueva_tabla.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Nueva_tabla.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PA_usuarios_1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>PA_usuarios_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="usersdb_script.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>usersdb_script.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vista_usuarios_1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Vista_usuarios_1.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

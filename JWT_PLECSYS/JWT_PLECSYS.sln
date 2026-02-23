@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "JWT_PLECSYS", "JWT_PLECSYS\JWT_PLECSYS.ssmssqlproj", "{66AEDC1F-D7A1-103A-37D1-F208ABB4EC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AEDC1F-D7A1-103A-37D1-F208ABB4EC4F}.Default|Default.ActiveCfg = Default
+		{84BF81D4-7202-4540-BD55-AFF303BFFA91}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E83A4A71-1672-4B2F-9856-668B4CB1E020}
+	EndGlobalSection
+EndGlobal

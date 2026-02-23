@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD3B89-1903-48BC-A1A5-E9E0A11952DE}|JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO.csproj|c:\\users\\admin\\desktop\\material de la uni\\documentos importantes\\jwt\\jwt_plecsys_demo\\jwt_plecsys_demo\\endpoints\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CD3B89-1903-48BC-A1A5-E9E0A11952DE}|JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO.csproj|solutionrelative:jwt_plecsys_demo\\endpoints\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD3B89-1903-48BC-A1A5-E9E0A11952DE}|JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO.csproj|c:\\users\\admin\\desktop\\material de la uni\\documentos importantes\\jwt\\jwt_plecsys_demo\\jwt_plecsys_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75CD3B89-1903-48BC-A1A5-E9E0A11952DE}|JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO.csproj|solutionrelative:jwt_plecsys_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7A0CA-45BA-4F55-BEEC-26B2194A7BBD}|APPLICATION\\APPLICATION.csproj|c:\\users\\admin\\desktop\\material de la uni\\documentos importantes\\jwt\\jwt_plecsys_demo\\application\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7A0CA-45BA-4F55-BEEC-26B2194A7BBD}|APPLICATION\\APPLICATION.csproj|solutionrelative:application\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0BD23D-7CC1-46B7-B9AA-325F2369B1CE}|INFRAESTRUCTURE\\INFRAESTRUCTURE.csproj|c:\\users\\admin\\desktop\\material de la uni\\documentos importantes\\jwt\\jwt_plecsys_demo\\infraestructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0BD23D-7CC1-46B7-B9AA-325F2369B1CE}|INFRAESTRUCTURE\\INFRAESTRUCTURE.csproj|solutionrelative:infraestructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CD3B89-1903-48BC-A1A5-E9E0A11952DE}|JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO.csproj|c:\\users\\admin\\desktop\\material de la uni\\documentos importantes\\jwt\\jwt_plecsys_demo\\jwt_plecsys_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CD3B89-1903-48BC-A1A5-E9E0A11952DE}|JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO.csproj|solutionrelative:jwt_plecsys_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7A0CA-45BA-4F55-BEEC-26B2194A7BBD}|APPLICATION\\APPLICATION.csproj|c:\\users\\admin\\desktop\\material de la uni\\documentos importantes\\jwt\\jwt_plecsys_demo\\application\\use_cases\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7A0CA-45BA-4F55-BEEC-26B2194A7BBD}|APPLICATION\\APPLICATION.csproj|solutionrelative:application\\use_cases\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_PLECSYS_DEMO\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO\\appsettings.json",
+              "RelativeToolTip": "JWT_PLECSYS_DEMO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T23:37:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\APPLICATION\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "APPLICATION\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\APPLICATION\\Services\\PasswordService.cs",
+              "RelativeToolTip": "APPLICATION\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:36:23.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\INFRAESTRUCTURE\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "INFRAESTRUCTURE\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\INFRAESTRUCTURE\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "INFRAESTRUCTURE\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:36:05.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_PLECSYS_DEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO\\Program.cs",
+              "RelativeToolTip": "JWT_PLECSYS_DEMO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:36:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\APPLICATION\\Use_cases\\Handlers\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "APPLICATION\\Use_cases\\Handlers\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\APPLICATION\\Use_cases\\Handlers\\CreateUserHandler.cs",
+              "RelativeToolTip": "APPLICATION\\Use_cases\\Handlers\\CreateUserHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIA5wDgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:36:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO\\Endpoints\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "JWT_PLECSYS_DEMO\\Endpoints\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Material de la uni\\Documentos importantes\\JWT\\JWT_PLECSYS_DEMO\\JWT_PLECSYS_DEMO\\Endpoints\\RegisterUser.cs",
+              "RelativeToolTip": "JWT_PLECSYS_DEMO\\Endpoints\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:36:05.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
